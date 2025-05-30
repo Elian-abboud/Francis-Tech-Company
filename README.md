@@ -38,6 +38,13 @@ This site is accessible directly or via a dedicated button on the main website.
 
 ### 🖼️ Screenshots
 
-![Francis-tec Company](/1.png)  
-![Francis-tec Company](/2.png)  
-![Francis-tec Company](/3.png)
+![Francis-Tech Company](/1.png)  
+![Francis-Tech Company](/2.png)  
+![Francis-Tech Company](/3.png)  
+![Francis-Tech Company](/4.png)  
+![Francis-Tech Company](/5.png)  
+![Francis-Tech Company](/6.png)  
+![Francis-Tech Company](/7.png)  
+![Francis-Tech Company](/8.png)  
+![Francis-Tech Company](/9.png)
+
